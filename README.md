@@ -1,1 +1,1 @@
-# 100-days-of-code
+Solutions of problems and examples in Interview bit

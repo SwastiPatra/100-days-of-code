@@ -1,3 +1,10 @@
+//Brute force solution is to 1st find the squares of every number as given in the sorted array. 
+//Then we can store the squares in another array and then can sort them afterwards using sort() method.
+//This will have a time complexity of O(N log N).
+
+
+//O(N) complexity -----> Optimised solution
+
 class Solution {
     public int[] sortedSquares(int[] A) {
         int[] res = new int[A.length];
